@@ -1,0 +1,23 @@
+{
+  "name": "gradio-node-fix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Runtime fixes for @gradio/client to work under node.js & other non-browser JS runtimes",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "gradio",
+    "@gradio/client",
+    "node",
+    "bun"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/arilotter/gradio-node-fix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arilotter/gradio-node-fix.git"
+  },
+  "bugs": "https://github.com/arilotter/gradio-node-fix/issues",
+  "author": "Ari Lotter <arilotter@gmail.com>"
+}
